@@ -1,3 +1,5 @@
 window.onload = function() {
-	document.querySelector('#submit_button').click();
+	setTimeout(() => {
+		document.querySelector('#submit_button').click();
+	}, 6000);
 }

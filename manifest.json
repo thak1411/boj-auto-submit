@@ -3,11 +3,11 @@
     "version": "1.0",
     "manifest_version": 2,
     "content_scripts": [ {
-        "matches": [ "https://www.acmicpc.net/status?from_mine=1&problem_id=10947&user_id=thak00", "https://www.acmicpc.net/status?user_id=thak00&problem_id=10947&from_mine=1" ],
+        "matches": [ "https://www.acmicpc.net/status?from_mine=1&problem_id=10944&user_id=thak00", "https://www.acmicpc.net/status?user_id=thak00&problem_id=10944&from_mine=1" ],
         "js": ["/src/script.js"]
     },
     {
-        "matches": [ "https://www.acmicpc.net/submit/10947/*" ],
+        "matches": [ "https://www.acmicpc.net/submit/10944/*" ],
         "js": ["/src/script2.js"]
     } ]
 }

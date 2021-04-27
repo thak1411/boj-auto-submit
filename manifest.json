@@ -7,7 +7,7 @@
         "js": ["/src/script.js"]
     },
     {
-        "matches": [ "https://www.acmicpc.net/submit/10944/*" ],
+        "matches": [ "https://www.acmicpc.net/submit/10945/*" ],
         "js": ["/src/script2.js"]
     } ]
 }

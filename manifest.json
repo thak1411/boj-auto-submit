@@ -3,7 +3,7 @@
     "version": "1.0",
     "manifest_version": 2,
     "content_scripts": [ {
-        "matches": [ "https://www.acmicpc.net/status?from_mine=1&problem_id=10944&user_id=thak00", "https://www.acmicpc.net/status?user_id=thak00&problem_id=10944&from_mine=1" ],
+        "matches": [ "https://www.acmicpc.net/status?from_mine=1&problem_id=10945&user_id=thak00", "https://www.acmicpc.net/status?user_id=thak00&problem_id=10945&from_mine=1" ],
         "js": ["/src/script.js"]
     },
     {
